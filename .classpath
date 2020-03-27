@@ -4,7 +4,36 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="lib"/>
 	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="src" path="seleniumlib"/>
+	<classpathentry kind="src" path="poilib"/>
 	<classpathentry kind="lib" path="lib/junit-4.12.jar"/>
 	<classpathentry kind="lib" path="lib/hamcrest-all-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/yuqianhou/eclipse-workspace/TestingTech2020/seleniumlib/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="/Users/yuqianhou/eclipse-workspace/TestingTech2020/seleniumlib/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/yuqianhou/eclipse-workspace/TestingTech2020/seleniumlib/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="/Users/yuqianhou/eclipse-workspace/TestingTech2020/seleniumlib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/yuqianhou/eclipse-workspace/TestingTech2020/seleniumlib/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="/Users/yuqianhou/eclipse-workspace/TestingTech2020/seleniumlib/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="/Users/yuqianhou/eclipse-workspace/TestingTech2020/seleniumlib/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="/Users/yuqianhou/eclipse-workspace/TestingTech2020/poilib/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/yuqianhou/eclipse-workspace/TestingTech2020/poilib/commons-codec-1.13.jar"/>
+	<classpathentry kind="lib" path="/Users/yuqianhou/eclipse-workspace/TestingTech2020/poilib/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="/Users/yuqianhou/eclipse-workspace/TestingTech2020/poilib/commons-compress-1.19.jar"/>
+	<classpathentry kind="lib" path="/Users/yuqianhou/eclipse-workspace/TestingTech2020/poilib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/yuqianhou/eclipse-workspace/TestingTech2020/poilib/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="/Users/yuqianhou/eclipse-workspace/TestingTech2020/poilib/curvesapi-1.06.jar"/>
+	<classpathentry kind="lib" path="/Users/yuqianhou/eclipse-workspace/TestingTech2020/poilib/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="/Users/yuqianhou/eclipse-workspace/TestingTech2020/poilib/jaxb-core-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/yuqianhou/eclipse-workspace/TestingTech2020/poilib/jaxb-impl-2.3.2.jar"/>
+	<classpathentry kind="lib" path="/Users/yuqianhou/eclipse-workspace/TestingTech2020/poilib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="/Users/yuqianhou/eclipse-workspace/TestingTech2020/poilib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="/Users/yuqianhou/eclipse-workspace/TestingTech2020/poilib/poi-4.1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/yuqianhou/eclipse-workspace/TestingTech2020/poilib/poi-examples-4.1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/yuqianhou/eclipse-workspace/TestingTech2020/poilib/poi-excelant-4.1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/yuqianhou/eclipse-workspace/TestingTech2020/poilib/poi-ooxml-4.1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/yuqianhou/eclipse-workspace/TestingTech2020/poilib/poi-ooxml-schemas-4.1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/yuqianhou/eclipse-workspace/TestingTech2020/poilib/poi-scratchpad-4.1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/yuqianhou/eclipse-workspace/TestingTech2020/poilib/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/yuqianhou/eclipse-workspace/TestingTech2020/poilib/xmlbeans-3.1.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
